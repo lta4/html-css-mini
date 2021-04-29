@@ -26,8 +26,8 @@ html {
     grid-template-rows: 15fr;
     grid-template-areas:
         "header"
-        "main sidebar"
-        "main sidebar"
+        "main"
+        "main"
         "footer"
 }
 
@@ -202,4 +202,55 @@ html {
     left: 603px;
     top: 333px;
     background: url(image1.png);
+}
+
+/************ GROUP TWO ****************/
+
+.groupTwo {
+    position: absolute;
+    width: 1117px;
+    height: 560px;
+    left: 240px;
+    top: 903.18px;
+    background: rgba(240, 99, 184, 0.15);
+    border-radius: 50px;
+}
+
+.imageTwo {
+    position: absolute;
+    width: 477px;
+    height: 504px;
+    left: 251px;
+    top: 935px;
+    background: url(image2.png);
+}
+
+.headlineTwo {
+    position: absolute;
+    width: 475px;
+    height: 100px;
+    left: 790px;
+    top: 1028.18px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 52px;
+    display: flex;
+    align-items: center;
+    color: #212353;
+}
+
+.groupTwoP {
+    position: absolute;
+    width: 474px;
+    height: 170px;
+    left: 790px;
+    top: 1168.18px;
+    font-family: Avenir, Helvetica;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 29px;
+    color: #4B5D68;
 }
