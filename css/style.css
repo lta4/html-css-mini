@@ -3,8 +3,10 @@ html {
 }
 
 html #root {
+    position: relative;
     width: 1600px;
     height: 4350px;
+    background: linear-gradient(180deg, #F6FAFD 0%, #FFFFFF 19.4%);
 }
 
 /* * {
@@ -17,11 +19,9 @@ html #root {
 /* * {
     border: solid 2px black;
 } */
-
+/* 
 html {
-    display: grid;
-    /* height: 100%; */
-    /* width: 100%; */
+    display: grid; */
     grid-template-columns: 1fr;
     grid-template-rows: 15fr;
     grid-template-areas:
@@ -29,7 +29,7 @@ html {
         "main"
         "main"
         "footer"
-}
+/* } */
 
 /* .nav {
     width: 416px;
@@ -252,5 +252,47 @@ html {
     font-weight: 500;
     font-size: 18px;
     line-height: 29px;
+    color: #4B5D68;
+}
+
+/********** GROUP THREE ****************/
+
+.groupThree {
+    position: absolute;
+    width: 1137.28px;
+    height: 1026px;
+    left: 220px;
+    top: 1613px;
+}
+
+.headlineFeatures {
+    position: absolute;
+    width: 405px;
+    height: 52px;
+    left: 596.29px;
+    top: 1613px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 53px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #212353;
+}
+
+.groupThreeP {
+    position: absolute;
+    width: 584px;
+    height: 58px;
+    left: 507.29px;
+    top: 1715px;
+    font-family: Avenir, Helvetica;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 29px;
+    text-align: center;
     color: #4B5D68;
 }
