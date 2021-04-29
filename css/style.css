@@ -2,6 +2,11 @@ html {
     scroll-behavior: smooth;
 }
 
+html #root {
+    width: 1600px;
+    height: 4350px;
+}
+
 /* * {
     padding: 0;
     margin: 0;
@@ -9,17 +14,68 @@ html {
     outline: 2px solid red;
 } */
 
-* {
+/* * {
     border: solid 2px black;
-}
+} */
 
 html {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    /* height: 100%; */
+    /* width: 100%; */
+    grid-template-columns: 1fr;
     grid-template-rows: 15fr;
     grid-template-areas:
-        "header header"
+        "header"
         "main sidebar"
         "main sidebar"
-        "footer footer"
+        "footer"
 }
+
+/* .mainOne {
+    width: 1248px;
+    height: 754px;
+    left: 240px;
+    top: 47px;
+    position: absolute;
+}
+
+.nav {
+    display: grid;
+    grid-column: 1;
+    display: flex;
+    justify-content: space-around;
+}
+
+.headlineOne {
+    font-size: 80px;
+    font-weight: bold;
+    font-family: Helvetica;
+    line-height: 88px;
+    position: absolute;
+    left: 240px;
+    top: 237px;
+    display: flex;
+    align-items: center;
+}
+
+.groupOneP {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 29px;
+    font-family: Avenir, sans-serif;
+    line-height: 28.8px;
+    color: #4B5D68;
+    position: absolute;
+    width: 380px;
+    height: 120px;
+    left: 240px;
+    top: 471px;
+}
+
+.imageOne {
+    width: 885px;
+    height: 468px;
+    position: absolute;
+    left: 603px;
+    top: 333px;
+} */
