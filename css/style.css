@@ -296,3 +296,253 @@ html {
     text-align: center;
     color: #4B5D68;
 }
+
+/************** SEARCH DATA *****************/
+
+.rectangle39 {
+    position: absolute;
+    width: 442px;
+    height: 358px;
+    left: 328.29px;
+    top: 1873px;
+    background: #68C9BA;
+    opacity: 0.1;
+    border-radius: 50px;
+}
+
+.divOne {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 500.29px;
+    top: 1922px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+    color: #212353;
+}
+
+.searchData {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 500.29px;
+    top: 1922px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+    color: #212353;
+
+}
+
+.imageThree {
+    position: absolute;
+    width: 232px;
+    height: 211px;
+    left: 239px;
+    top: 1946px;
+    background: url(image3.png);
+}
+
+.groupThreeDivOne {
+    position: absolute;
+    width: 220px;
+    height: 160px;
+    left: 500.29px;
+    top: 1992px;
+    font-family: Avenir, Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #4B5D68; 
+}
+
+.searchDataButton {
+    position: absolute;
+    width: 87px;
+    height: 26px;
+    left: 500.29px;
+    top: 2172px;
+    font-family: Avenir, Helvetica;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.005em;
+    color: #212353;
+}
+
+/********** 24 HOUR ACCESS ***********/
+
+.groupFour {
+    position: absolute;
+    width: 544.28px;
+    height: 394.56px;
+    left: 813px;
+    top: 1873px;
+}
+
+.rectangle40 {
+    position: absolute;
+    width: 442px;
+    height: 358px;
+    left: 915.28px;
+    top: 1873px;
+    background: #9C69E2;
+    opacity: 0.1;
+    border-radius: 20px;
+}
+
+.imageFour {
+    position: absolute;
+    width: 241px;
+    height: 185px;
+    left: 813px;
+    top: 1944px;
+    background: url(image4.png);
+}
+
+.hoursAccess {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 1087.28px;
+    top: 1922px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+    color: #212353;
+}
+
+.groupFourP {
+    position: absolute;
+    width: 220px;
+    height: 160px;
+    left: 1087.28px;
+    top: 1992px;
+    font-family: Avenir, Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #4B5D68;
+}
+
+.hoursAccessButton {
+    position: absolute;
+    width: 87px;
+    height: 26px;
+    left: 1087.28px;
+    top: 2172px;
+    font-family: Avenir, Helvetica;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.005em;
+    color: #212353;
+}
+
+/************* PRINT OUT **************/
+
+.groupFive {
+    position: absolute;
+    width: 550.28px;
+    height: 358px;
+    left: 220px;
+    top: 2281px;
+}
+
+.rectangle41 {
+    position: absolute;
+    width: 442px;
+    height: 358px;
+    left: 328.29px;
+    top: 2281px;
+    background: #F063B8;
+    opacity: 0.1;
+    border-radius: 50px;
+}
+
+.imageFive {
+    position: absolute;
+    width: 245px;
+    height: 181px;
+    left: 220px;
+    top: 2404px;
+    background: url(image5.png);
+}
+
+.headlinePrint {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 500.29px;
+    top: 2330px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+    color: #212353;
+}
+
+.groupFiveP {
+    position: absolute;
+    width: 220px;
+    height: 160px;
+    left: 500.29px;
+    top: 2400px;
+    font-family: Avenir, Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #4B5D68;
+}
+
+.groupFiveButton {
+    position: absolute;
+    width: 87px;
+    height: 26px;
+    left: 500.29px;
+    top: 2580px;
+    font-family: Avenir, Helvetica;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.005em;
+    color: #212353;
+}
+
+/************ SECURITY CODE ***********/
+
+.groupSix {
+    position: absolute;
+    width: 539.28px;
+    height: 364px;
+    left: 818px;
+    top: 2275px;
+}
