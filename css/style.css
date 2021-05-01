@@ -769,3 +769,75 @@ html {
     box-shadow: 0px 5px 5px rgba(75, 93, 104, 0.1);
     border-radius: 50px;
 }
+
+.groupTen {
+    position: absolute;
+    width: 1085px;
+    height: 311.2px;
+    left: 240px;
+    top: 3949.8px;
+}
+
+.rectangle49 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 240px;
+    top: 4016px;
+    background: #9C69E2;
+    border-radius: 20px;
+}
+
+.rectangle50 {
+    position: absolute;
+    width: 20px;
+    height: 35px;
+    left: 269px;
+    top: 4001px;
+    background: #F063B8;
+    border-radius: 20px;
+}
+
+.headlineLogo {
+    position: absolute;
+    width: 153px;
+    height: 30px;
+    left: 309px;
+    top: 4004px;
+    font-family: Avenir, Helvetica;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 32px;
+    color: #212353;
+}
+
+.groupTenP1 {
+    position: absolute;
+    width: 335px;
+    height: 65px;
+    left: 240px;
+    top: 4101px;
+    font-family: Avenir, Helvetica;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 29px;
+    letter-spacing: 0.01em;
+    color: #212353;
+}
+
+.groupTenP2 {
+    position: absolute;
+    width: 335px;
+    height: 60px;
+    left: 240px;
+    top: 4176px;
+    font-family: Avenir, Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 29px;
+    letter-spacing: 0.01em;
+    color: #212353;
+}
