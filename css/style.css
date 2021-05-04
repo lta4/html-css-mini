@@ -895,6 +895,49 @@ html {
     overflow: hidden;
 }
 
+.polygonVector1 {
+    position: absolute;
+    width: 14px;
+    height: 6px;
+    left: 1204px;
+    top: 3440px;
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    transform: rotate(-90deg);
+}
+
+.arrowVector1 {
+    position: absolute;
+    width: 40px;
+    height: 0px;
+    left: 1244px;
+    top: 3433px;
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    transform: rotate(-180deg);
+}
+
+.arrowVector2 {
+    position: absolute;
+    width: 20px;
+    height: 0px;
+    left: 1264px;
+    top: 3433px;
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+}
+
+.polygonVector2 {
+    position: absolute;
+    width: 14px;
+    height: 6px;
+    left: 1284px;
+    top: 3426px;
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    transform: rotate(90deg);
+}
+
 /**************** FOOTER ****************/
 
 .rectangleLine {
