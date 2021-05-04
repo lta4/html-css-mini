@@ -916,3 +916,137 @@ html {
     text-decoration: none;
     color: #212353;
 }
+
+.footHelp {
+    position: absolute;
+    width: 51.75px;
+    height: 30px;
+    left: 931px;
+    top: 4011px;
+    font-family: Avenir, Helvetica;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 26px;
+    text-decoration: none;
+    color: #212353;
+}
+
+.footLinks5 {
+    position: absolute;
+    width: 166px;
+    height: 190px;
+    left: 931px;
+    top: 4071px;
+    font-family: Avenir, Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 40px;
+    text-decoration: none;
+    color: #212353;
+}
+
+.footLinks6 {
+    position: absolute;
+    width: 166px;
+    height: 190px;
+    left: 931px;
+    top: 4101px;
+    font-family: Avenir, Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 40px;
+    text-decoration: none;
+    color: #212353;
+}
+
+.footLinks7 {
+    position: absolute;
+    width: 166px;
+    height: 190px;
+    left: 931px;
+    top: 4131px;
+    font-family: Avenir, Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 40px;
+    text-decoration: none;
+    color: #212353;
+}
+
+.footLinks8 {
+    position: absolute;
+    width: 166px;
+    height: 190px;
+    left: 931px;
+    top: 4161px;
+    font-family: Avenir, Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 40px;
+    text-decoration: none;
+    color: #212353;
+}
+
+.footLinks9 {
+    position: absolute;
+    width: 166px;
+    height: 190px;
+    left: 931px;
+    top: 4191px;
+    font-family: Avenir, Hevetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 40px;
+    text-decoration: none;
+    color: #212353;
+}
+
+.footSocial {
+    position: absolute;
+    width: 170px;
+    height: 30px;
+    left: 1147px;
+    top: 4011px;
+    font-family: Avenir, Helvetica;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 26px;
+    color: #212353;
+}
+
+.eclipse1 {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1147px;
+    top: 4071px;
+    background: #212353;
+    opacity: 0.1;
+}
+
+.eclipse2 {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1211px;
+    top: 4071px;
+    background: #212353;
+    opacity: 0.1;
+}
+
+.eclipse3 {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1275px;
+    top: 4071px;
+    background: #212353;
+    opacity: 0.1;
+}
