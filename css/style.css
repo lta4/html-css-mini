@@ -629,7 +629,7 @@ html {
     height: 709px;
     left: 242px;
     top: 2789px;
-    background: #F063B8;
+    background: #9C69E2;
     border-radius: 50px;
 }
 
@@ -667,6 +667,7 @@ html {
     left: 405px;
     top: 3098px;
     background: url(.jpg), #F063B8;
+    border-radius: 50px;
 }
 
 .headlineFang {
@@ -694,9 +695,9 @@ html {
     top: 2789px;
     background: #F063B8;
     border-radius: 50px;
-}
+} */
 
-.groupSevenP {
+/* .groupSevenP {
     position: absolute;
     width: 1118px;
     height: 709px;
@@ -705,6 +706,18 @@ html {
     background: #F063B8;
     border-radius: 50px;
 } */
+
+.rectangle45 {
+    position: absolute;
+    width: 400px;
+    height: 330px;
+    left: 1000px;
+    top: 3038px;
+    background: linear-gradient(270deg, #9C69E2 9.75%, rgba(255, 255, 255, 0) 100%);
+    border: 1px solid #9C69E2;
+    box-sizing: border-box;
+    border-radius: 20px
+}
 
 /**************** FOOTER ****************/
 
@@ -1029,6 +1042,7 @@ html {
     top: 4071px;
     background: #212353;
     opacity: 0.1;
+    border-radius: 50px;
 }
 
 .eclipse2 {
@@ -1039,6 +1053,7 @@ html {
     top: 4071px;
     background: #212353;
     opacity: 0.1;
+    border-radius: 50px;
 }
 
 .eclipse3 {
@@ -1049,4 +1064,5 @@ html {
     top: 4071px;
     background: #212353;
     opacity: 0.1;
+    border-radius: 50px;
 }
