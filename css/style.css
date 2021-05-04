@@ -791,6 +791,8 @@ html {
     font-size: 18px;
     line-height: 32px;
     color: #4B5D68;
+    opacity: 0.6;
+    overflow: hidden;
 }
 
 /**************** FOOTER ****************/
