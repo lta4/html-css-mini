@@ -841,3 +841,78 @@ html {
     letter-spacing: 0.01em;
     color: #212353;
 }
+
+.footAbout {
+    position: absolute;
+    width: 51.75px;
+    height: 30px;
+    left: 715px;
+    top: 4011px;
+    font-family: Avenir, Helvetica;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 26px;
+    text-decoration: none;
+    color: #212353;
+}
+
+.footLinks1 {
+    position: absolute;
+    width: 166px;
+    height: 160px;
+    left: 715px;
+    top: 4071px;
+    font-family: Avenir, Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 40px;
+    text-decoration: none;
+    color: #212353;
+}
+
+.footLinks2 {
+    position: absolute;
+    width: 166px;
+    height: 160px;
+    left: 715px;
+    top: 4101px;
+    font-family: Avenir, Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 40px;
+    text-decoration: none;
+    color: #212353;
+}
+
+.footLinks3 {
+    position: absolute;
+    width: 166px;
+    height: 160px;
+    left: 715px;
+    top: 4131px;
+    font-family: Avenir, Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 40px;
+    text-decoration: none;
+    color: #212353;
+}
+
+.footLinks4 {
+    position: absolute;
+    width: 166px;
+    height: 160px;
+    left: 715px;
+    top: 4161px;
+    font-family: Avenir, Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 40px;
+    text-decoration: none;
+    color: #212353;
+}
