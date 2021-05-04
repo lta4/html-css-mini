@@ -97,6 +97,7 @@ html {
     font-weight: 800;
     font-size: 16px;
     line-height: 26px;
+    text-decoration: none;
     color: #212353;
 }
 
@@ -111,6 +112,7 @@ html {
     font-weight: 500;
     font-size: 16px;
     line-height: 26px;
+    text-decoration: none;
     color: #4B5D68;
 }
 
@@ -125,6 +127,7 @@ html {
     font-weight: 500;
     font-size: 16px;
     line-height: 26px;
+    text-decoration: none;
     color: #4B5D68;
 }
 
@@ -139,6 +142,7 @@ html {
     font-weight: 500;
     font-size: 16px;
     line-height: 26px;
+    text-decoration: none;
     color: #4B5D68;
 }
 
@@ -339,7 +343,6 @@ html {
     display: flex;
     align-items: center;
     color: #212353;
-
 }
 
 .imageThree {
@@ -379,9 +382,40 @@ html {
     display: flex;
     align-items: center;
     letter-spacing: 0.005em;
+    text-decoration: none;
     color: #212353;
 }
 
+.vector56 {
+    position: absolute;
+    width: 203.82px;
+    height: 118.6px;
+    left: 674.41px;
+    top: 2070.99px;
+    border: 1.5px solid #FFFFFF;
+    transform: rotate(-135deg);
+}
+
+.vector74 {
+    position: absolute;
+    width: 20px;
+    height: 0px;
+    left: 607.29px;
+    top: 2185px;
+    border: 2px solid #9C69E2;
+    box-sizing: border-box;
+}
+
+.polygon1 {
+    position: absolute;
+    width: 14px;
+    height: 6px;
+    left: 627.29px;
+    top: 2178px;
+    border: 2px solid #9C69E2;
+    box-sizing: border-box;
+    transform: rotate(90deg);
+}
 /********** 24 HOUR ACCESS ***********/
 
 .groupFour {
@@ -456,7 +490,29 @@ html {
     display: flex;
     align-items: center;
     letter-spacing: 0.005em;
+    text-decoration: none;
     color: #212353;
+}
+
+.vector75 {
+    position: absolute;
+    width: 20px;
+    height: 0px;
+    left: 1194.28px;
+    top: 2185px;
+    border: 2px solid #9C69E2;
+    box-sizing: border-box;
+}
+
+.polygon2 {
+    position: absolute;
+    width: 14px;
+    height: 6px;
+    left: 1214.28px;
+    top: 2178px;
+    border: 2px solid #9C69E2;
+    box-sizing: border-box;
+    transform: rotate(90deg);
 }
 
 /************* PRINT OUT **************/
@@ -533,7 +589,29 @@ html {
     display: flex;
     align-items: center;
     letter-spacing: 0.005em;
+    text-decoration: none;
     color: #212353;
+}
+
+.vector76 {
+    position: absolute;
+    width: 20px;
+    height: 0px;
+    left: 607.29px;
+    top: 2593px;
+    border: 2px solid #9C69E2;
+    box-sizing: border-box;
+}
+
+.polygon3 {
+    position: absolute;
+    width: 14px;
+    height: 6px;
+    left: 627.29px;
+    top: 2586px;
+    border: 2px solid #9C69E2;
+    box-sizing: border-box;
+    transform: rotate(90deg);
 }
 
 /************ SECURITY CODE ***********/
@@ -610,7 +688,29 @@ html {
     display: flex;
     align-items: center;
     letter-spacing: 0.005em;
+    text-decoration: none;
     color: #212353;
+}
+
+.vector77 {
+    position: absolute;
+    width: 20px;
+    height: 0px;
+    left: 1194.28px;
+    top: 2593px;
+    border: 2px solid #9C69E2;
+    box-sizing: border-box;
+}
+
+.polygon4 {
+    position: absolute;
+    width: 14px;
+    height: 6px;
+    left: 1214.28px;
+    top: 2586px;
+    border: 2px solid #9C69E2;
+    box-sizing: border-box;
+    transform: rotate(90deg);
 }
 
 /************ TESTIMONIALS ******************/
